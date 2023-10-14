@@ -1,12 +1,4 @@
 **Gym Management System Overview**
-The Gym Management System is designed to streamline and automate various aspects of gym operations. It aims to simplify the tasks of gym staff, trainers, and members, while also providing valuable data for tracking progress and achievements. The system maintains a comprehensive database that includes member goals, progress statistics, contact information, personal details, training programs, and equipment inventory.
-
-1) Target Users
-2) Gym Members
-3) Administrators/Owners
-4) Receptionists
-5) Trainers
-6) Key Features
 
 **User Management:** Admins can add or remove receptionists and trainers from the system.
 **Information Viewing:** Access to details of all users, including receptionists, trainers, and gym members.
